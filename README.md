@@ -5,8 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jrubenp&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b2438&text_color=ffff&&title_color=ff6b6b&icon_color=ff6b6b&hide_border=true" alt="José Rubén" align="center" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrubenp&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b2438&text_color=ffff&&title_color=ff6b6b&icon_color=ff6b6b&hide_border=true
-)](https://github.com/jrubenp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrubenp&hide=javascript,html)](https://github.com/jrubenp/github-readme-stats)
 <!--
 **jrubenp/jrubenp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
